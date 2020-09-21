@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn-linkedin .icon {
+  opacity: 0.6;
+  background: url("../images/linkedin.png") 0 0 no-repeat;
+}
+
+.btn-twitter .icon {
+  opacity: 0.6;
+  background: url("../images/twitter.png") 0 0 no-repeat;
+}
+
+.btn-email .icon {
+  opacity: 0.6;
+  background: url("../images/email.png") 0 0 no-repeat;
+}
